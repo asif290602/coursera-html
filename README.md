@@ -8,7 +8,7 @@ This repository contains my solutions to the assignments of the Coursera course 
 ## Assignments
 ### Module 2
 * [Assignment description](./descriptions/assignment2/Assignment-2.md)
-* [Solution](./module 2/index.html)
+* [Solution](./module2/)
 ### Module 3
 * [Assignment description](./descriptions/assignment2/Assignment-3.md)
 * [Solution](https://asif290602.github.io/coursera-html/module%203/)
